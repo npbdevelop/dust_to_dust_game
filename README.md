@@ -13,6 +13,10 @@ Current stage of development is refining the collision system and implementing d
 - Addition of scene transition animations and interactable menu system
 - Creation of psuedo-turn-based battle scene functionality
 
+## Compatibility
+As this is a passion project it's mostly for me and my friends, so I only currently plan on making it executable in my custom Ubuntu-based environment. If my friends end up showing
+more interest than I expect, I'd be more interested in implementing compatibility with Windows, Mac, and mobile.
+
 ## Goal
 The general end goal is to have a final fantasy / mother 3 style game that uses 8-bit-esque graphics and has a pseudo-turn-based battle system.
 
