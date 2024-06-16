@@ -8,8 +8,13 @@ have feedback, don't hesitate to check out my profile and reach out. I'm nice :)
 ### No current playable build 
 Current stage of development is refining the collision system and implementing different scene functionality, as well as getting gravity mechanics working.
 
+## Upcoming Milestones
+- Implementation of omnidirecitional collision for entity interaction
+- Addition of scene transition animations and interactable menu system
+- Creation of psuedo-turn-based battle scene functionality
+
 ## Goal
-The general end goal is to have a final fantasy / mother 3 style game that uses 8-bit-esque graphics and has a sudo-turn-based battle system.
+The general end goal is to have a final fantasy / mother 3 style game that uses 8-bit-esque graphics and has a pseudo-turn-based battle system.
 
 ## Plot and World
 ### The rough plot is as follows:
