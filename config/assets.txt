@@ -1,0 +1,12 @@
+Texture Skull assets/textures/skull.png
+Texture Floor assets/textures/floor.png
+Texture Bluebg assets/textures/bluebg.png
+Texture Redbg assets/textures/redbg.png
+Texture Ghost assets/textures/ghost.png
+Texture Fireball assets/textures/fireball.png
+Animation Sheet assets/animations/sheet.png 8 10
+Animation Smile assets/animations/smile.png 8 12
+Animation Skully assets/animations/skully.png 5 10
+Font Sans assets/fonts/sans.ttf
+Font Brownie assets/fonts/brownie.ttf
+Font Robot assets/fonts/robot.ttf
